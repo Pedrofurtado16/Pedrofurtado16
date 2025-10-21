@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Pedro  
+# 👋 Hey, I'm Pedro - Software Developer 
 _Intermediate English speaker_
 
 ---
