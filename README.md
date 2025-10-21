@@ -27,5 +27,12 @@ _Intermediate English speaker_
 
 ---
 
+## 📬 Contact
+
+- 📧 Email: [penuelpaifurta@gmail.com](mailto:penuelpaifurta@gmail.com)  
+- 📱 Phone/WhatsApp: [+55 88 99721-8657](https://wa.me/5588997218657)
+
+---
+
 ## 🙌 Welcome!
 Feel free to explore my work — I'm excited to share my journey and projects with you!
