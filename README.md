@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Pedro  
+# 👋 Hello World, I'm Pedro  
 _Intermediate English speaker_
 
 ---
