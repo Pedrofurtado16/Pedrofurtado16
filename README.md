@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">DevLinks</h1>
 
 <p align="center">
@@ -42,3 +43,6 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 Esse projeto está sob a licença MIT.
 
 Feito com ❤️ by Rocketseat 👋 [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+=======
+# pedrodev
+>>>>>>> 8348d97464fd6689680457b4294451a830cf9e0c
